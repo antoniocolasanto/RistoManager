@@ -1,2 +1,14 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RistoManager.AI/RistoManager.AI.csproj" />
+    <Project Path="src/RistoManager.Application/RistoManager.Application.csproj" />
+    <Project Path="src/RistoManager.Core/RistoManager.Core.csproj" />
+    <Project Path="src/RistoManager.Documents/RistoManager.Documents.csproj" />
+    <Project Path="src/RistoManager.Infrastructure/RistoManager.Infrastructure.csproj" />
+    <Project Path="src/RistoManager.UI/RistoManager.UI.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RistoManager.IntegrationTests/RistoManager.IntegrationTests.csproj" />
+    <Project Path="tests/RistoManager.UnitTests/RistoManager.UnitTests.csproj" />
+  </Folder>
 </Solution>
